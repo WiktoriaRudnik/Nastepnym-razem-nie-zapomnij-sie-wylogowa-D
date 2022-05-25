@@ -48,3 +48,12 @@ plt.show()
 # # palette='muted')
 # # plot.fig.set_size_inches(10, 10)
 # # plt.show()
+Zad 1. (6pkt.) Za pomocą bibliotek matplotlib utwórz wykres liniowy funkcji 𝑓(𝑥)= 𝑥2+4 2𝑥 dla liczb całkowitych x z przedziału od [0,10). Dodaj odpowiednie etykiety do osi wykresu, tytuł linii oraz tytuł wykresu. Ustaw zakres na osi x na graniczne wartości z przedziału. Wyświetl legendę.
+Zad 2. (10pkt.) Za pomocą matplotlib odwzoruj siatkę wykresów z poniższego zdjęcia. Siatkę zapisz do pliku(imie_nazwisko_zad2.png)
+Zad 3. (6pkt) Używając biblioteki pandas wczytaj zawartość pliku „automobile.csv” do ramki danych i wykonaj następujące kroki:
+• Ze 100 wierszy wybranych losowo bez powtarzania utwórz nową ramkę danych
+• Na nowej ramce danych dokonaj grupowania danych po kolumnie ‘Car model’
+• Na wykresie kołowym przedstaw wielkości poszczególnych grup, wartości liczbowe na wykresie mają być zaokrąglone bez części dziesiętnych, ustaw czcionkę rozmiaru 14, dodaj etykietę do wykresu oraz tytuł.
+Zad 4. (8pkt.)
+Za pomocą biblioteki pandas wczytaj zawartość pliku „automobile.csv”, następnie utworzysz grupę po kolumnie „Car model” i policzysz średnią cenę samochodów dla każdej z marek (kolumna Price), dane zobrazujesz na wykresie słupkowym, do stworzenia wykresu wykorzystaj bibliotekę matplotlib. Dodaj etykiety do osi wykresu oraz tytuł.
+Uwaga: wszystkie wykresy mają być widoczne w całości, czyli każdy element wykresu musi być widoczny. Wektory do zadań 1 i 2 robione za pomocą biblioteki numpy.
